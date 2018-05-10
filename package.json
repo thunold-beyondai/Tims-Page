@@ -1,0 +1,19 @@
+{
+  "name": "tims-page",
+  "version": "1.0.0",
+  "description": "tims personal space",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thunold-beyondai/Tims-Page.git"
+  },
+  "author": "Tim Hunold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thunold-beyondai/Tims-Page/issues"
+  },
+  "homepage": "https://github.com/thunold-beyondai/Tims-Page#readme"
+}
